@@ -24,9 +24,5 @@ func main(){
 	var c float64
 	var d bool
 	//fmt.Println(a,b,c,d)
-	a:=10
-	b:="rahul"
-	c:=3.14
-	d:=true
 	fmt.Println(a,b,c,d)
 }
